@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 3 / 32
-- **Category Score:** 3 / 32 points
-- **Last Updated:** 6/21/2026, 7:23:51 PM (IST)
+- **Solved Questions:** 4 / 32
+- **Category Score:** 4 / 32 points
+- **Last Updated:** 6/21/2026, 7:25:23 PM (IST)
 
 ---
 
@@ -17,7 +17,7 @@
 | 4 | Climbing Stairs | EASY | 1 / 1 | 🟢 Passed | [View Solution](./climbing-stairs/Main.java) | [View Report](./climbing-stairs/README.md) |
 | 5 | Contains Duplicate | EASY | - / 1 | 🔴 Pending | - | - |
 | 6 | Defanging an IP Address | EASY | 1 / 1 | 🟢 Passed | [View Solution](./defang-ip-address/Main.java) | [View Report](./defang-ip-address/README.md) |
-| 7 | Factorial of N | EASY | - / 1 | 🔴 Pending | - | - |
+| 7 | Factorial of N | EASY | 1 / 1 | 🟢 Passed | [View Solution](./factorial/Main.java) | [View Report](./factorial/README.md) |
 | 8 | Fibonacci Number | EASY | 1 / 1 | 🟢 Passed | [View Solution](./fibonacci-number/Main.java) | [View Report](./fibonacci-number/README.md) |
 | 9 | Find Pivot Index | EASY | - / 1 | 🔴 Pending | - | - |
 | 10 | First Unique Character in a String | EASY | - / 1 | 🔴 Pending | - | - |
