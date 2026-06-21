@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 2 / 32
-- **Category Score:** 2 / 32 points
-- **Last Updated:** 6/21/2026, 7:20:10 PM (IST)
+- **Solved Questions:** 3 / 32
+- **Category Score:** 3 / 32 points
+- **Last Updated:** 6/21/2026, 7:23:51 PM (IST)
 
 ---
 
@@ -18,7 +18,7 @@
 | 5 | Contains Duplicate | EASY | - / 1 | 🔴 Pending | - | - |
 | 6 | Defanging an IP Address | EASY | 1 / 1 | 🟢 Passed | [View Solution](./defang-ip-address/Main.java) | [View Report](./defang-ip-address/README.md) |
 | 7 | Factorial of N | EASY | - / 1 | 🔴 Pending | - | - |
-| 8 | Fibonacci Number | EASY | - / 1 | 🔴 Pending | - | - |
+| 8 | Fibonacci Number | EASY | 1 / 1 | 🟢 Passed | [View Solution](./fibonacci-number/Main.java) | [View Report](./fibonacci-number/README.md) |
 | 9 | Find Pivot Index | EASY | - / 1 | 🔴 Pending | - | - |
 | 10 | First Unique Character in a String | EASY | - / 1 | 🔴 Pending | - | - |
 | 11 | Fizz Buzz | EASY | - / 1 | 🔴 Pending | - | - |
