@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 4 / 32
-- **Category Score:** 4 / 32 points
-- **Last Updated:** 6/21/2026, 7:25:23 PM (IST)
+- **Solved Questions:** 5 / 32
+- **Category Score:** 5 / 32 points
+- **Last Updated:** 6/21/2026, 7:32:06 PM (IST)
 
 ---
 
@@ -21,7 +21,7 @@
 | 8 | Fibonacci Number | EASY | 1 / 1 | 🟢 Passed | [View Solution](./fibonacci-number/Main.java) | [View Report](./fibonacci-number/README.md) |
 | 9 | Find Pivot Index | EASY | - / 1 | 🔴 Pending | - | - |
 | 10 | First Unique Character in a String | EASY | - / 1 | 🔴 Pending | - | - |
-| 11 | Fizz Buzz | EASY | - / 1 | 🔴 Pending | - | - |
+| 11 | Fizz Buzz | EASY | 1 / 1 | 🟢 Passed | [View Solution](./fizz-buzz/Main.java) | [View Report](./fizz-buzz/README.md) |
 | 12 | Intersection of Two Arrays | EASY | - / 1 | 🔴 Pending | - | - |
 | 13 | Is Subsequence | EASY | - / 1 | 🔴 Pending | - | - |
 | 14 | Isomorphic Strings | EASY | - / 1 | 🔴 Pending | - | - |
