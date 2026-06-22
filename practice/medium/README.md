@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 3 / 27
-- **Category Score:** 4 / 54 points
-- **Last Updated:** 6/22/2026, 8:44:45 AM (IST)
+- **Solved Questions:** 4 / 27
+- **Category Score:** 6 / 54 points
+- **Last Updated:** 6/22/2026, 8:58:03 AM (IST)
 
 ---
 
@@ -36,7 +36,7 @@
 | 23 | Subsets (Power Set) | MEDIUM | - / 2 | 🔴 Pending | - | - |
 | 24 | 3Sum | MEDIUM | - / 2 | 🔴 Pending | - | - |
 | 25 | Top K Frequent Elements | MEDIUM | - / 2 | 🔴 Pending | - | - |
-| 26 | Two Sum | MEDIUM | - / 2 | 🔴 Pending | - | - |
+| 26 | Two Sum | MEDIUM | 2 / 2 | 🟢 Passed | [View Solution](./two-sum/Main.java) | [View Report](./two-sum/README.md) |
 | 27 | Valid Parentheses | MEDIUM | - / 2 | 🔴 Pending | - | - |
 
 *Generated automatically by Code-to-Grade (C2G) Assessment Platform.*
