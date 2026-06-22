@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 1 / 27
-- **Category Score:** 1 / 54 points
-- **Last Updated:** 6/21/2026, 7:15:51 PM (IST)
+- **Solved Questions:** 2 / 27
+- **Category Score:** 3 / 54 points
+- **Last Updated:** 6/22/2026, 8:24:01 AM (IST)
 
 ---
 
@@ -31,7 +31,7 @@
 | 18 | Product of Array Except Self | MEDIUM | - / 2 | 🔴 Pending | - | - |
 | 19 | Rotting Oranges | MEDIUM | - / 2 | 🔴 Pending | - | - |
 | 20 | Search in Rotated Sorted Array | MEDIUM | - / 2 | 🔴 Pending | - | - |
-| 21 | Sort Colors | MEDIUM | - / 2 | 🔴 Pending | - | - |
+| 21 | Sort Colors | MEDIUM | 2 / 2 | 🟢 Passed | [View Solution](./sort-colors/Main.java) | [View Report](./sort-colors/README.md) |
 | 22 | Subarray Sum Equals K | MEDIUM | - / 2 | 🔴 Pending | - | - |
 | 23 | Subsets (Power Set) | MEDIUM | - / 2 | 🔴 Pending | - | - |
 | 24 | 3Sum | MEDIUM | - / 2 | 🔴 Pending | - | - |
