@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 7 / 32
-- **Category Score:** 7 / 32 points
-- **Last Updated:** 6/22/2026, 7:59:59 AM (IST)
+- **Solved Questions:** 8 / 32
+- **Category Score:** 8 / 32 points
+- **Last Updated:** 6/22/2026, 8:04:42 AM (IST)
 
 ---
 
@@ -15,7 +15,7 @@
 | 2 | Binary Tree Inorder Traversal | EASY | - / 1 | 🔴 Pending | - | - |
 | 3 | Binary Tree Preorder Traversal | EASY | - / 1 | 🔴 Pending | - | - |
 | 4 | Climbing Stairs | EASY | 1 / 1 | 🟢 Passed | [View Solution](./climbing-stairs/Main.java) | [View Report](./climbing-stairs/README.md) |
-| 5 | Contains Duplicate | EASY | - / 1 | 🔴 Pending | - | - |
+| 5 | Contains Duplicate | EASY | 1 / 1 | 🟢 Passed | [View Solution](./contains-duplicate/Main.java) | [View Report](./contains-duplicate/README.md) |
 | 6 | Defanging an IP Address | EASY | 1 / 1 | 🟢 Passed | [View Solution](./defang-ip-address/Main.java) | [View Report](./defang-ip-address/README.md) |
 | 7 | Factorial of N | EASY | 1 / 1 | 🟢 Passed | [View Solution](./factorial/Main.java) | [View Report](./factorial/README.md) |
 | 8 | Fibonacci Number | EASY | 1 / 1 | 🟢 Passed | [View Solution](./fibonacci-number/Main.java) | [View Report](./fibonacci-number/README.md) |
