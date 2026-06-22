@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 6 / 32
-- **Category Score:** 6 / 32 points
-- **Last Updated:** 6/22/2026, 7:53:47 AM (IST)
+- **Solved Questions:** 7 / 32
+- **Category Score:** 7 / 32 points
+- **Last Updated:** 6/22/2026, 7:59:59 AM (IST)
 
 ---
 
@@ -26,7 +26,7 @@
 | 13 | Is Subsequence | EASY | - / 1 | 🔴 Pending | - | - |
 | 14 | Isomorphic Strings | EASY | - / 1 | 🔴 Pending | - | - |
 | 15 | Length of Last Word | EASY | 1 / 1 | 🟢 Passed | [View Solution](./length-of-last-word/Main.java) | [View Report](./length-of-last-word/README.md) |
-| 16 | Majority Element | EASY | - / 1 | 🔴 Pending | - | - |
+| 16 | Majority Element | EASY | 1 / 1 | 🟢 Passed | [View Solution](./majority-element/Main.java) | [View Report](./majority-element/README.md) |
 | 17 | Merge Sorted Array | EASY | - / 1 | 🔴 Pending | - | - |
 | 18 | Missing Number | EASY | - / 1 | 🔴 Pending | - | - |
 | 19 | Move Zeroes | EASY | - / 1 | 🔴 Pending | - | - |
