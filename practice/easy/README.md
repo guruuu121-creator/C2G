@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 11 / 32
-- **Category Score:** 11 / 32 points
-- **Last Updated:** 6/22/2026, 5:10:25 PM (IST)
+- **Solved Questions:** 12 / 32
+- **Category Score:** 12 / 32 points
+- **Last Updated:** 6/22/2026, 5:17:40 PM (IST)
 
 ---
 
@@ -28,7 +28,7 @@
 | 15 | Length of Last Word | EASY | 1 / 1 | 🟢 Passed | [View Solution](./length-of-last-word/Main.java) | [View Report](./length-of-last-word/README.md) |
 | 16 | Majority Element | EASY | 1 / 1 | 🟢 Passed | [View Solution](./majority-element/Main.java) | [View Report](./majority-element/README.md) |
 | 17 | Merge Sorted Array | EASY | - / 1 | 🔴 Pending | - | - |
-| 18 | Missing Number | EASY | - / 1 | 🔴 Pending | - | - |
+| 18 | Missing Number | EASY | 1 / 1 | 🟢 Passed | [View Solution](./missing-number/Main.java) | [View Report](./missing-number/README.md) |
 | 19 | Move Zeroes | EASY | - / 1 | 🔴 Pending | - | - |
 | 20 | Palindrome Number | EASY | - / 1 | 🔴 Pending | - | - |
 | 21 | Pascal's Triangle | EASY | - / 1 | 🔴 Pending | - | - |
