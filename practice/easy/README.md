@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 9 / 32
-- **Category Score:** 9 / 32 points
-- **Last Updated:** 6/22/2026, 9:42:23 AM (IST)
+- **Solved Questions:** 10 / 32
+- **Category Score:** 10 / 32 points
+- **Last Updated:** 6/22/2026, 4:57:33 PM (IST)
 
 ---
 
@@ -32,7 +32,7 @@
 | 19 | Move Zeroes | EASY | - / 1 | 🔴 Pending | - | - |
 | 20 | Palindrome Number | EASY | - / 1 | 🔴 Pending | - | - |
 | 21 | Pascal's Triangle | EASY | - / 1 | 🔴 Pending | - | - |
-| 22 | Plus One | EASY | - / 1 | 🔴 Pending | - | - |
+| 22 | Plus One | EASY | 1 / 1 | 🟢 Passed | [View Solution](./plus-one/Main.java) | [View Report](./plus-one/README.md) |
 | 23 | Power of Two | EASY | - / 1 | 🔴 Pending | - | - |
 | 24 | Remove Duplicates from Sorted Array | EASY | - / 1 | 🔴 Pending | - | - |
 | 25 | Reverse String | EASY | - / 1 | 🔴 Pending | - | - |
