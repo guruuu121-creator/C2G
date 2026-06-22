@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 5 / 32
-- **Category Score:** 5 / 32 points
-- **Last Updated:** 6/21/2026, 7:32:06 PM (IST)
+- **Solved Questions:** 6 / 32
+- **Category Score:** 6 / 32 points
+- **Last Updated:** 6/22/2026, 7:53:47 AM (IST)
 
 ---
 
@@ -25,7 +25,7 @@
 | 12 | Intersection of Two Arrays | EASY | - / 1 | 🔴 Pending | - | - |
 | 13 | Is Subsequence | EASY | - / 1 | 🔴 Pending | - | - |
 | 14 | Isomorphic Strings | EASY | - / 1 | 🔴 Pending | - | - |
-| 15 | Length of Last Word | EASY | - / 1 | 🔴 Pending | - | - |
+| 15 | Length of Last Word | EASY | 1 / 1 | 🟢 Passed | [View Solution](./length-of-last-word/Main.java) | [View Report](./length-of-last-word/README.md) |
 | 16 | Majority Element | EASY | - / 1 | 🔴 Pending | - | - |
 | 17 | Merge Sorted Array | EASY | - / 1 | 🔴 Pending | - | - |
 | 18 | Missing Number | EASY | - / 1 | 🔴 Pending | - | - |
