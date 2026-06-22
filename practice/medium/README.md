@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 2 / 27
-- **Category Score:** 3 / 54 points
-- **Last Updated:** 6/22/2026, 8:24:01 AM (IST)
+- **Solved Questions:** 3 / 27
+- **Category Score:** 4 / 54 points
+- **Last Updated:** 6/22/2026, 8:44:45 AM (IST)
 
 ---
 
@@ -28,7 +28,7 @@
 | 15 | Min Stack Simulator | MEDIUM | - / 2 | 🔴 Pending | - | - |
 | 16 | Non-overlapping Intervals | MEDIUM | - / 2 | 🔴 Pending | - | - |
 | 17 | Number of Islands | MEDIUM | - / 2 | 🔴 Pending | - | - |
-| 18 | Product of Array Except Self | MEDIUM | - / 2 | 🔴 Pending | - | - |
+| 18 | Product of Array Except Self | MEDIUM | 1 / 2 | 🟡 Partially Passed | [View Solution](./product-except-self/Main.java) | [View Report](./product-except-self/README.md) |
 | 19 | Rotting Oranges | MEDIUM | - / 2 | 🔴 Pending | - | - |
 | 20 | Search in Rotated Sorted Array | MEDIUM | - / 2 | 🔴 Pending | - | - |
 | 21 | Sort Colors | MEDIUM | 2 / 2 | 🟢 Passed | [View Solution](./sort-colors/Main.java) | [View Report](./sort-colors/README.md) |
