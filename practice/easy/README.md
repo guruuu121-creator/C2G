@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 15 / 32
-- **Category Score:** 15 / 32 points
-- **Last Updated:** 6/23/2026, 8:28:11 AM (IST)
+- **Solved Questions:** 16 / 32
+- **Category Score:** 16 / 32 points
+- **Last Updated:** 6/23/2026, 3:17:05 PM (IST)
 
 ---
 
@@ -20,7 +20,7 @@
 | 7 | Factorial of N | EASY | 1 / 1 | 🟢 Passed | [View Solution](./factorial/Main.java) | [View Report](./factorial/README.md) |
 | 8 | Fibonacci Number | EASY | 1 / 1 | 🟢 Passed | [View Solution](./fibonacci-number/Main.java) | [View Report](./fibonacci-number/README.md) |
 | 9 | Find Pivot Index | EASY | - / 1 | 🔴 Pending | - | - |
-| 10 | First Unique Character in a String | EASY | - / 1 | 🔴 Pending | - | - |
+| 10 | First Unique Character in a String | EASY | 1 / 1 | 🟢 Passed | [View Solution](./first-unique-char/Main.java) | [View Report](./first-unique-char/README.md) |
 | 11 | Fizz Buzz | EASY | 1 / 1 | 🟢 Passed | [View Solution](./fizz-buzz/Main.java) | [View Report](./fizz-buzz/README.md) |
 | 12 | Intersection of Two Arrays | EASY | - / 1 | 🔴 Pending | - | - |
 | 13 | Is Subsequence | EASY | - / 1 | 🔴 Pending | - | - |
