@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 12 / 32
-- **Category Score:** 12 / 32 points
-- **Last Updated:** 6/22/2026, 5:17:40 PM (IST)
+- **Solved Questions:** 13 / 32
+- **Category Score:** 13 / 32 points
+- **Last Updated:** 6/23/2026, 7:40:09 AM (IST)
 
 ---
 
@@ -35,7 +35,7 @@
 | 22 | Plus One | EASY | 1 / 1 | 🟢 Passed | [View Solution](./plus-one/Main.java) | [View Report](./plus-one/README.md) |
 | 23 | Power of Two | EASY | 1 / 1 | 🟢 Passed | [View Solution](./power-of-two/Main.java) | [View Report](./power-of-two/README.md) |
 | 24 | Remove Duplicates from Sorted Array | EASY | - / 1 | 🔴 Pending | - | - |
-| 25 | Reverse String | EASY | - / 1 | 🔴 Pending | - | - |
+| 25 | Reverse String | EASY | 1 / 1 | 🟢 Passed | [View Solution](./reverse-string/Main.java) | [View Report](./reverse-string/README.md) |
 | 26 | Reverse Vowels of a String | EASY | - / 1 | 🔴 Pending | - | - |
 | 27 | Roman to Integer | EASY | - / 1 | 🔴 Pending | - | - |
 | 28 | Search Insert Position | EASY | - / 1 | 🔴 Pending | - | - |
