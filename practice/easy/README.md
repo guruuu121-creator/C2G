@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 13 / 32
-- **Category Score:** 13 / 32 points
-- **Last Updated:** 6/23/2026, 7:40:09 AM (IST)
+- **Solved Questions:** 14 / 32
+- **Category Score:** 14 / 32 points
+- **Last Updated:** 6/23/2026, 7:47:28 AM (IST)
 
 ---
 
@@ -41,7 +41,7 @@
 | 28 | Search Insert Position | EASY | - / 1 | 🔴 Pending | - | - |
 | 29 | Single Number | EASY | 1 / 1 | 🟢 Passed | [View Solution](./single-number/Main.java) | [View Report](./single-number/README.md) |
 | 30 | Valid Anagram | EASY | - / 1 | 🔴 Pending | - | - |
-| 31 | Valid Palindrome | EASY | - / 1 | 🔴 Pending | - | - |
+| 31 | Valid Palindrome | EASY | 1 / 1 | 🟢 Passed | [View Solution](./valid-palindrome/Main.java) | [View Report](./valid-palindrome/README.md) |
 | 32 | Valid Perfect Square | EASY | - / 1 | 🔴 Pending | - | - |
 
 *Generated automatically by Code-to-Grade (C2G) Assessment Platform.*
