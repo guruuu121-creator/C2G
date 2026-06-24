@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 18 / 32
-- **Category Score:** 18 / 32 points
-- **Last Updated:** 6/24/2026, 9:16:09 AM (IST)
+- **Solved Questions:** 19 / 32
+- **Category Score:** 19 / 32 points
+- **Last Updated:** 6/24/2026, 2:11:16 PM (IST)
 
 ---
 
@@ -19,7 +19,7 @@
 | 6 | Defanging an IP Address | EASY | 1 / 1 | 🟢 Passed | [View Solution](./defang-ip-address/Main.java) | [View Report](./defang-ip-address/README.md) |
 | 7 | Factorial of N | EASY | 1 / 1 | 🟢 Passed | [View Solution](./factorial/Main.java) | [View Report](./factorial/README.md) |
 | 8 | Fibonacci Number | EASY | 1 / 1 | 🟢 Passed | [View Solution](./fibonacci-number/Main.java) | [View Report](./fibonacci-number/README.md) |
-| 9 | Find Pivot Index | EASY | - / 1 | 🔴 Pending | - | - |
+| 9 | Find Pivot Index | EASY | 1 / 1 | 🟢 Passed | [View Solution](./find-pivot-index/Main.java) | [View Report](./find-pivot-index/README.md) |
 | 10 | First Unique Character in a String | EASY | 1 / 1 | 🟢 Passed | [View Solution](./first-unique-char/Main.java) | [View Report](./first-unique-char/README.md) |
 | 11 | Fizz Buzz | EASY | 1 / 1 | 🟢 Passed | [View Solution](./fizz-buzz/Main.java) | [View Report](./fizz-buzz/README.md) |
 | 12 | Intersection of Two Arrays | EASY | - / 1 | 🔴 Pending | - | - |
