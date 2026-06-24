@@ -2,16 +2,16 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 17 / 32
-- **Category Score:** 17 / 32 points
-- **Last Updated:** 6/24/2026, 9:06:16 AM (IST)
+- **Solved Questions:** 18 / 32
+- **Category Score:** 18 / 32 points
+- **Last Updated:** 6/24/2026, 9:16:09 AM (IST)
 
 ---
 
 ## Solved Solutions Table
 | # | Question Title | Difficulty | Score | Status | Solution Code | Question Report |
 |---|----------------|------------|-------|--------|---------------|-----------------|
-| 1 | Best Time to Buy and Sell Stock | EASY | - / 1 | 🔴 Pending | - | - |
+| 1 | Best Time to Buy and Sell Stock | EASY | 1 / 1 | 🟢 Passed | [View Solution](./best-time-stock/Main.java) | [View Report](./best-time-stock/README.md) |
 | 2 | Binary Tree Inorder Traversal | EASY | - / 1 | 🔴 Pending | - | - |
 | 3 | Binary Tree Preorder Traversal | EASY | - / 1 | 🔴 Pending | - | - |
 | 4 | Climbing Stairs | EASY | 1 / 1 | 🟢 Passed | [View Solution](./climbing-stairs/Main.java) | [View Report](./climbing-stairs/README.md) |
