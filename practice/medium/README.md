@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 4 / 27
-- **Category Score:** 6 / 54 points
-- **Last Updated:** 6/22/2026, 8:58:03 AM (IST)
+- **Solved Questions:** 5 / 27
+- **Category Score:** 7 / 54 points
+- **Last Updated:** 6/25/2026, 10:46:33 AM (IST)
 
 ---
 
@@ -32,7 +32,7 @@
 | 19 | Rotting Oranges | MEDIUM | - / 2 | 🔴 Pending | - | - |
 | 20 | Search in Rotated Sorted Array | MEDIUM | - / 2 | 🔴 Pending | - | - |
 | 21 | Sort Colors | MEDIUM | 2 / 2 | 🟢 Passed | [View Solution](./sort-colors/Main.java) | [View Report](./sort-colors/README.md) |
-| 22 | Subarray Sum Equals K | MEDIUM | - / 2 | 🔴 Pending | - | - |
+| 22 | Subarray Sum Equals K | MEDIUM | 1 / 2 | 🟡 Partially Passed | [View Solution](./subarray-sum-k/Main.java) | [View Report](./subarray-sum-k/README.md) |
 | 23 | Subsets (Power Set) | MEDIUM | - / 2 | 🔴 Pending | - | - |
 | 24 | 3Sum | MEDIUM | - / 2 | 🔴 Pending | - | - |
 | 25 | Top K Frequent Elements | MEDIUM | - / 2 | 🔴 Pending | - | - |
