@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 19 / 32
-- **Category Score:** 19 / 32 points
-- **Last Updated:** 6/24/2026, 2:11:16 PM (IST)
+- **Solved Questions:** 20 / 32
+- **Category Score:** 20 / 32 points
+- **Last Updated:** 6/25/2026, 10:35:26 AM (IST)
 
 ---
 
@@ -24,7 +24,7 @@
 | 11 | Fizz Buzz | EASY | 1 / 1 | 🟢 Passed | [View Solution](./fizz-buzz/Main.java) | [View Report](./fizz-buzz/README.md) |
 | 12 | Intersection of Two Arrays | EASY | - / 1 | 🔴 Pending | - | - |
 | 13 | Is Subsequence | EASY | - / 1 | 🔴 Pending | - | - |
-| 14 | Isomorphic Strings | EASY | - / 1 | 🔴 Pending | - | - |
+| 14 | Isomorphic Strings | EASY | 1 / 1 | 🟢 Passed | [View Solution](./isomorphic-strings/Main.java) | [View Report](./isomorphic-strings/README.md) |
 | 15 | Length of Last Word | EASY | 1 / 1 | 🟢 Passed | [View Solution](./length-of-last-word/Main.java) | [View Report](./length-of-last-word/README.md) |
 | 16 | Majority Element | EASY | 1 / 1 | 🟢 Passed | [View Solution](./majority-element/Main.java) | [View Report](./majority-element/README.md) |
 | 17 | Merge Sorted Array | EASY | - / 1 | 🔴 Pending | - | - |
