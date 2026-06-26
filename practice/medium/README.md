@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 5 / 27
-- **Category Score:** 7 / 54 points
-- **Last Updated:** 6/25/2026, 10:46:33 AM (IST)
+- **Solved Questions:** 6 / 27
+- **Category Score:** 9 / 54 points
+- **Last Updated:** 6/26/2026, 10:41:40 AM (IST)
 
 ---
 
@@ -34,7 +34,7 @@
 | 21 | Sort Colors | MEDIUM | 2 / 2 | 🟢 Passed | [View Solution](./sort-colors/Main.java) | [View Report](./sort-colors/README.md) |
 | 22 | Subarray Sum Equals K | MEDIUM | 1 / 2 | 🟡 Partially Passed | [View Solution](./subarray-sum-k/Main.java) | [View Report](./subarray-sum-k/README.md) |
 | 23 | Subsets (Power Set) | MEDIUM | - / 2 | 🔴 Pending | - | - |
-| 24 | 3Sum | MEDIUM | - / 2 | 🔴 Pending | - | - |
+| 24 | 3Sum | MEDIUM | 2 / 2 | 🟢 Passed | [View Solution](./three-sum/Main.java) | [View Report](./three-sum/README.md) |
 | 25 | Top K Frequent Elements | MEDIUM | - / 2 | 🔴 Pending | - | - |
 | 26 | Two Sum | MEDIUM | 2 / 2 | 🟢 Passed | [View Solution](./two-sum/Main.java) | [View Report](./two-sum/README.md) |
 | 27 | Valid Parentheses | MEDIUM | - / 2 | 🔴 Pending | - | - |
