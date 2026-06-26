@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 20 / 32
-- **Category Score:** 20 / 32 points
-- **Last Updated:** 6/25/2026, 10:35:26 AM (IST)
+- **Solved Questions:** 21 / 32
+- **Category Score:** 21 / 32 points
+- **Last Updated:** 6/26/2026, 10:57:40 AM (IST)
 
 ---
 
@@ -30,7 +30,7 @@
 | 17 | Merge Sorted Array | EASY | - / 1 | 🔴 Pending | - | - |
 | 18 | Missing Number | EASY | 1 / 1 | 🟢 Passed | [View Solution](./missing-number/Main.java) | [View Report](./missing-number/README.md) |
 | 19 | Move Zeroes | EASY | 1 / 1 | 🟢 Passed | [View Solution](./move-zeroes/Main.java) | [View Report](./move-zeroes/README.md) |
-| 20 | Palindrome Number | EASY | - / 1 | 🔴 Pending | - | - |
+| 20 | Palindrome Number | EASY | 1 / 1 | 🟢 Passed | [View Solution](./palindrome-number/Main.java) | [View Report](./palindrome-number/README.md) |
 | 21 | Pascal's Triangle | EASY | - / 1 | 🔴 Pending | - | - |
 | 22 | Plus One | EASY | 1 / 1 | 🟢 Passed | [View Solution](./plus-one/Main.java) | [View Report](./plus-one/README.md) |
 | 23 | Power of Two | EASY | 1 / 1 | 🟢 Passed | [View Solution](./power-of-two/Main.java) | [View Report](./power-of-two/README.md) |
