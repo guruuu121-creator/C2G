@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 21 / 32
-- **Category Score:** 21 / 32 points
-- **Last Updated:** 6/26/2026, 10:57:40 AM (IST)
+- **Solved Questions:** 22 / 32
+- **Category Score:** 22 / 32 points
+- **Last Updated:** 6/26/2026, 1:29:49 PM (IST)
 
 ---
 
@@ -34,7 +34,7 @@
 | 21 | Pascal's Triangle | EASY | - / 1 | 🔴 Pending | - | - |
 | 22 | Plus One | EASY | 1 / 1 | 🟢 Passed | [View Solution](./plus-one/Main.java) | [View Report](./plus-one/README.md) |
 | 23 | Power of Two | EASY | 1 / 1 | 🟢 Passed | [View Solution](./power-of-two/Main.java) | [View Report](./power-of-two/README.md) |
-| 24 | Remove Duplicates from Sorted Array | EASY | - / 1 | 🔴 Pending | - | - |
+| 24 | Remove Duplicates from Sorted Array | EASY | 1 / 1 | 🟢 Passed | [View Solution](./remove-duplicates/Main.java) | [View Report](./remove-duplicates/README.md) |
 | 25 | Reverse String | EASY | 1 / 1 | 🟢 Passed | [View Solution](./reverse-string/Main.java) | [View Report](./reverse-string/README.md) |
 | 26 | Reverse Vowels of a String | EASY | - / 1 | 🔴 Pending | - | - |
 | 27 | Roman to Integer | EASY | - / 1 | 🔴 Pending | - | - |
