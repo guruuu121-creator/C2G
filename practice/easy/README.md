@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 22 / 32
-- **Category Score:** 22 / 32 points
-- **Last Updated:** 6/26/2026, 1:29:49 PM (IST)
+- **Solved Questions:** 23 / 32
+- **Category Score:** 23 / 32 points
+- **Last Updated:** 6/28/2026, 2:49:24 PM (IST)
 
 ---
 
@@ -38,7 +38,7 @@
 | 25 | Reverse String | EASY | 1 / 1 | 🟢 Passed | [View Solution](./reverse-string/Main.java) | [View Report](./reverse-string/README.md) |
 | 26 | Reverse Vowels of a String | EASY | - / 1 | 🔴 Pending | - | - |
 | 27 | Roman to Integer | EASY | - / 1 | 🔴 Pending | - | - |
-| 28 | Search Insert Position | EASY | - / 1 | 🔴 Pending | - | - |
+| 28 | Search Insert Position | EASY | 1 / 1 | 🟢 Passed | [View Solution](./search-insert-position/Main.java) | [View Report](./search-insert-position/README.md) |
 | 29 | Single Number | EASY | 1 / 1 | 🟢 Passed | [View Solution](./single-number/Main.java) | [View Report](./single-number/README.md) |
 | 30 | Valid Anagram | EASY | - / 1 | 🔴 Pending | - | - |
 | 31 | Valid Palindrome | EASY | 1 / 1 | 🟢 Passed | [View Solution](./valid-palindrome/Main.java) | [View Report](./valid-palindrome/README.md) |
