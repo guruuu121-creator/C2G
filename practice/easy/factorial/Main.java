@@ -5,10 +5,10 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         // Write your solution here
         int n = sc.nextInt();
-        int f = 1;
+        int fact = 1;
         for(int i=1;i<=n;i++){
-            f = f * i;
+            fact *= i;
         }
-        System.out.println(f);
+        System.out.println(fact);
     }
 }
