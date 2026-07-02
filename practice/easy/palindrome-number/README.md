@@ -44,6 +44,6 @@ Explanation: From left to right, it reads -121. From right to left, it becomes 1
 - **Status:** 🟢 Solved
 - **Score:** 1 / 1 points
 - **Test Cases:** 6 / 6 passed
-- **Date Submitted:** 6/26/2026, 10:57:39 AM (IST)
+- **Date Submitted:** 7/2/2026, 8:19:07 AM (IST)
 
 *Generated automatically by Code-to-Grade (C2G) Assessment Platform.*
