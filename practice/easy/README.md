@@ -4,14 +4,14 @@
 - **Status:** 🟡 In Progress
 - **Solved Questions:** 1 / 34
 - **Category Score:** 1 / 34 points
-- **Last Updated:** 7/2/2026, 7:59:28 AM (IST)
+- **Last Updated:** 7/2/2026, 8:07:25 AM (IST)
 
 ---
 
 ## Solved Solutions Table
 | # | Question Title | Difficulty | Score | Status | Solution Code | Question Report |
 |---|----------------|------------|-------|--------|---------------|-----------------|
-| 1 | Fizz Buzz | EASY | 1 / 1 | 🟢 Passed | [View Solution](./fizz-buzz/Main.java) | [View Report](./fizz-buzz/README.md) |
+| 1 | Fizz Buzz | EASY | - / 1 | 🔴 Pending | - | - |
 | 2 | Palindrome Number | EASY | - / 1 | 🔴 Pending | - | - |
 | 3 | Reverse String | EASY | - / 1 | 🔴 Pending | - | - |
 | 4 | Factorial of N | EASY | - / 1 | 🔴 Pending | - | - |
@@ -43,7 +43,7 @@
 | 30 | Isomorphic Strings | EASY | - / 1 | 🔴 Pending | - | - |
 | 31 | Defanging an IP Address | EASY | - / 1 | 🔴 Pending | - | - |
 | 32 | Plus One | EASY | - / 1 | 🔴 Pending | - | - |
-| 33 | String Reversal | EASY | - / 1 | 🔴 Pending | - | - |
+| 33 | String Reversal | EASY | 1 / 1 | 🟢 Passed | [View Solution](./string-reversal/Main.java) | [View Report](./string-reversal/README.md) |
 | 34 | String Substring | EASY | - / 1 | 🔴 Pending | - | - |
 
 *Generated automatically by Code-to-Grade (C2G) Assessment Platform.*
