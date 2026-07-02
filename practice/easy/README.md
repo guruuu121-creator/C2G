@@ -4,14 +4,14 @@
 - **Status:** 🟡 In Progress
 - **Solved Questions:** 1 / 34
 - **Category Score:** 1 / 34 points
-- **Last Updated:** 7/2/2026, 8:49:43 AM (IST)
+- **Last Updated:** 7/2/2026, 6:30:33 PM (IST)
 
 ---
 
 ## Solved Solutions Table
 | # | Question Title | Difficulty | Score | Status | Solution Code | Question Report |
 |---|----------------|------------|-------|--------|---------------|-----------------|
-| 1 | Fizz Buzz | EASY | - / 1 | 🔴 Pending | - | - |
+| 1 | Fizz Buzz | EASY | 1 / 1 | 🟢 Passed | [View Solution](./fizz-buzz/Main.java) | [View Report](./fizz-buzz/README.md) |
 | 2 | Palindrome Number | EASY | - / 1 | 🔴 Pending | - | - |
 | 3 | Reverse String | EASY | - / 1 | 🔴 Pending | - | - |
 | 4 | Factorial of N | EASY | - / 1 | 🔴 Pending | - | - |
@@ -20,7 +20,7 @@
 | 7 | Valid Anagram | EASY | - / 1 | 🔴 Pending | - | - |
 | 8 | Merge Sorted Array | EASY | - / 1 | 🔴 Pending | - | - |
 | 9 | Remove Duplicates from Sorted Array | EASY | - / 1 | 🔴 Pending | - | - |
-| 10 | Power of Two | EASY | 1 / 1 | 🟢 Passed | [View Solution](./power-of-two/Main.java) | [View Report](./power-of-two/README.md) |
+| 10 | Power of Two | EASY | - / 1 | 🔴 Pending | - | - |
 | 11 | Climbing Stairs | EASY | - / 1 | 🔴 Pending | - | - |
 | 12 | Binary Tree Inorder Traversal | EASY | - / 1 | 🔴 Pending | - | - |
 | 13 | Length of Last Word | EASY | - / 1 | 🔴 Pending | - | - |
