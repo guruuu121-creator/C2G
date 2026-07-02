@@ -53,7 +53,7 @@ false
 ## Submission Report
 - **Status:** 🟢 Solved
 - **Score:** 1 / 1 points
-- **Test Cases:** 6 / 6 passed
-- **Date Submitted:** 6/22/2026, 5:10:24 PM (IST)
+- **Test Cases:** 5 / 6 passed
+- **Date Submitted:** 7/2/2026, 8:49:41 AM (IST)
 
 *Generated automatically by Code-to-Grade (C2G) Assessment Platform.*
