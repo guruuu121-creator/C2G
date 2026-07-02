@@ -4,7 +4,7 @@
 - **Status:** 🟡 In Progress
 - **Solved Questions:** 1 / 34
 - **Category Score:** 1 / 34 points
-- **Last Updated:** 7/2/2026, 8:08:30 AM (IST)
+- **Last Updated:** 7/2/2026, 8:10:51 AM (IST)
 
 ---
 
@@ -43,7 +43,7 @@
 | 30 | Isomorphic Strings | EASY | - / 1 | 🔴 Pending | - | - |
 | 31 | Defanging an IP Address | EASY | - / 1 | 🔴 Pending | - | - |
 | 32 | Plus One | EASY | - / 1 | 🔴 Pending | - | - |
-| 33 | String Reversal | EASY | 1 / 1 | 🟢 Passed | [View Solution](./string-reversal/Main.java) | [View Report](./string-reversal/README.md) |
-| 34 | String Substring | EASY | - / 1 | 🔴 Pending | - | - |
+| 33 | String Reversal | EASY | - / 1 | 🔴 Pending | - | - |
+| 34 | String Substring | EASY | 1 / 1 | 🟢 Passed | [View Solution](./string-substring/Main.java) | [View Report](./string-substring/README.md) |
 
 *Generated automatically by Code-to-Grade (C2G) Assessment Platform.*
