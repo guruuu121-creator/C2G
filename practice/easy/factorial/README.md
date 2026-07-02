@@ -44,6 +44,6 @@ Output:
 - **Status:** 🟢 Solved
 - **Score:** 1 / 1 points
 - **Test Cases:** 5 / 5 passed
-- **Date Submitted:** 6/21/2026, 7:25:22 PM (IST)
+- **Date Submitted:** 7/2/2026, 8:28:19 AM (IST)
 
 *Generated automatically by Code-to-Grade (C2G) Assessment Platform.*
