@@ -4,7 +4,7 @@
 - **Status:** 🟡 In Progress
 - **Solved Questions:** 1 / 34
 - **Category Score:** 1 / 34 points
-- **Last Updated:** 7/2/2026, 8:20:50 AM (IST)
+- **Last Updated:** 7/2/2026, 8:28:21 AM (IST)
 
 ---
 
@@ -13,8 +13,8 @@
 |---|----------------|------------|-------|--------|---------------|-----------------|
 | 1 | Fizz Buzz | EASY | - / 1 | 🔴 Pending | - | - |
 | 2 | Palindrome Number | EASY | - / 1 | 🔴 Pending | - | - |
-| 3 | Reverse String | EASY | 1 / 1 | 🟢 Passed | [View Solution](./reverse-string/Main.java) | [View Report](./reverse-string/README.md) |
-| 4 | Factorial of N | EASY | - / 1 | 🔴 Pending | - | - |
+| 3 | Reverse String | EASY | - / 1 | 🔴 Pending | - | - |
+| 4 | Factorial of N | EASY | 1 / 1 | 🟢 Passed | [View Solution](./factorial/Main.java) | [View Report](./factorial/README.md) |
 | 5 | Fibonacci Number | EASY | - / 1 | 🔴 Pending | - | - |
 | 6 | Contains Duplicate | EASY | - / 1 | 🔴 Pending | - | - |
 | 7 | Valid Anagram | EASY | - / 1 | 🔴 Pending | - | - |
