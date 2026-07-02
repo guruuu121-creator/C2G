@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         // Write your solution here
-         int n = sc.nextInt();
+        int n = sc.nextInt();
           if (n < 0) {
             System.out.println(false);
             return;
@@ -15,6 +15,5 @@ public class Main {
         String rev = new StringBuilder(s).reverse().toString();
 
         System.out.println(s.equals(rev));
-          
     }
 }
