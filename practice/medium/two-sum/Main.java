@@ -13,10 +13,10 @@ public class Main {
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
                 if(nums[i]+nums[j]==k){
-                    System.out.print(i+ " "+ j);
-                    return;
-                }
+                System.out.println(i+ " " +j);
+                return;
             }
+        }
         }
     }
 }
