@@ -45,8 +45,8 @@ Output:
 
 ## Submission Report
 - **Status:** 🟢 Solved
-- **Score:** 1 / 1 points
-- **Test Cases:** 6 / 6 passed
-- **Date Submitted:** 6/21/2026, 7:23:50 PM (IST)
+- **Score:** 0 / 1 points
+- **Test Cases:** 3 / 6 passed
+- **Date Submitted:** 7/2/2026, 8:47:48 AM (IST)
 
 *Generated automatically by Code-to-Grade (C2G) Assessment Platform.*
