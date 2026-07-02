@@ -5,12 +5,8 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         // Write your solution here
         int n = sc.nextInt();
-        if(n<=0){
-            System.out.println("false");
-            return;
-        }
         while(n%2==0){
-            n/=2;
+            n /= 2;
         }
         System.out.println(n==1);
     }
