@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 24 / 34
-- **Category Score:** 24 / 34 points
-- **Last Updated:** 7/4/2026, 9:32:25 AM (IST)
+- **Solved Questions:** 25 / 34
+- **Category Score:** 25 / 34 points
+- **Last Updated:** 7/4/2026, 9:32:51 AM (IST)
 
 ---
 
@@ -44,6 +44,6 @@
 | 31 | Defanging an IP Address | EASY | 1 / 1 | 🟢 Passed | [View Solution](./defang-ip-address/Main.java) | [View Report](./defang-ip-address/README.md) |
 | 32 | Plus One | EASY | 1 / 1 | 🟢 Passed | [View Solution](./plus-one/Main.java) | [View Report](./plus-one/README.md) |
 | 33 | String Reversal | EASY | 1 / 1 | 🟢 Passed | [View Solution](./string-reversal/Main.java) | [View Report](./string-reversal/README.md) |
-| 34 | String Substring | EASY | - / 1 | 🔴 Pending | - | - |
+| 34 | String Substring | EASY | 1 / 1 | 🟢 Passed | [View Solution](./string-substring/Main.java) | [View Report](./string-substring/README.md) |
 
 *Generated automatically by Code-to-Grade (C2G) Assessment Platform.*
