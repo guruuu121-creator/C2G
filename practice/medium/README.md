@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 7 / 27
-- **Category Score:** 10 / 54 points
-- **Last Updated:** 7/4/2026, 9:48:07 AM (IST)
+- **Solved Questions:** 8 / 27
+- **Category Score:** 12 / 54 points
+- **Last Updated:** 7/4/2026, 10:20:07 AM (IST)
 
 ---
 
@@ -12,7 +12,7 @@
 | # | Question Title | Difficulty | Score | Status | Solution Code | Question Report |
 |---|----------------|------------|-------|--------|---------------|-----------------|
 | 1 | Two Sum | MEDIUM | 2 / 2 | 🟢 Passed | [View Solution](./two-sum/Main.java) | [View Report](./two-sum/README.md) |
-| 2 | Valid Parentheses | MEDIUM | - / 2 | 🔴 Pending | - | - |
+| 2 | Valid Parentheses | MEDIUM | 2 / 2 | 🟢 Passed | [View Solution](./valid-parentheses/Main.java) | [View Report](./valid-parentheses/README.md) |
 | 3 | Binary Search | MEDIUM | - / 2 | 🔴 Pending | - | - |
 | 4 | Container With Most Water | MEDIUM | 1 / 2 | 🟡 Partially Passed | [View Solution](./container-with-most-water/Main.java) | [View Report](./container-with-most-water/README.md) |
 | 5 | 3Sum | MEDIUM | 2 / 2 | 🟢 Passed | [View Solution](./three-sum/Main.java) | [View Report](./three-sum/README.md) |
