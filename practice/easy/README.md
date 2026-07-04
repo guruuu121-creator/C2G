@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 25 / 34
-- **Category Score:** 25 / 34 points
-- **Last Updated:** 7/4/2026, 9:32:51 AM (IST)
+- **Solved Questions:** 26 / 34
+- **Category Score:** 26 / 34 points
+- **Last Updated:** 7/4/2026, 5:19:57 PM (IST)
 
 ---
 
@@ -24,7 +24,7 @@
 | 11 | Climbing Stairs | EASY | 1 / 1 | 🟢 Passed | [View Solution](./climbing-stairs/Main.java) | [View Report](./climbing-stairs/README.md) |
 | 12 | Binary Tree Inorder Traversal | EASY | - / 1 | 🔴 Pending | - | - |
 | 13 | Length of Last Word | EASY | 1 / 1 | 🟢 Passed | [View Solution](./length-of-last-word/Main.java) | [View Report](./length-of-last-word/README.md) |
-| 14 | Intersection of Two Arrays | EASY | - / 1 | 🔴 Pending | - | - |
+| 14 | Intersection of Two Arrays | EASY | 1 / 1 | 🟢 Passed | [View Solution](./intersection-two-arrays/Main.java) | [View Report](./intersection-two-arrays/README.md) |
 | 15 | Valid Palindrome | EASY | 1 / 1 | 🟢 Passed | [View Solution](./valid-palindrome/Main.java) | [View Report](./valid-palindrome/README.md) |
 | 16 | Majority Element | EASY | 1 / 1 | 🟢 Passed | [View Solution](./majority-element/Main.java) | [View Report](./majority-element/README.md) |
 | 17 | Move Zeroes | EASY | 1 / 1 | 🟢 Passed | [View Solution](./move-zeroes/Main.java) | [View Report](./move-zeroes/README.md) |
