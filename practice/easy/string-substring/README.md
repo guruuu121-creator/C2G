@@ -33,6 +33,6 @@ Explanation: The input string is 'Hello' and the substring from index 1 to 3 is 
 - **Status:** 🟢 Solved
 - **Score:** 1 / 1 points
 - **Test Cases:** 4 / 4 passed
-- **Date Submitted:** 7/2/2026, 8:10:49 AM (IST)
+- **Date Submitted:** 7/4/2026, 9:32:50 AM (IST)
 
 *Generated automatically by Code-to-Grade (C2G) Assessment Platform.*
