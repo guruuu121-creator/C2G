@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 1 / 16
-- **Category Score:** 3 / 48 points
-- **Last Updated:** 7/2/2026, 8:45:37 AM (IST)
+- **Solved Questions:** 2 / 16
+- **Category Score:** 6 / 48 points
+- **Last Updated:** 7/6/2026, 8:19:50 PM (IST)
 
 ---
 
@@ -18,7 +18,7 @@
 | 5 | Edit Distance | HARD | - / 3 | 🔴 Pending | - | - |
 | 6 | Trapping Rain Water | HARD | - / 3 | 🔴 Pending | - | - |
 | 7 | Sliding Window Maximum | HARD | - / 3 | 🔴 Pending | - | - |
-| 8 | First Missing Positive | HARD | - / 3 | 🔴 Pending | - | - |
+| 8 | First Missing Positive | HARD | 3 / 3 | 🟢 Passed | [View Solution](./first-missing-positive/Main.java) | [View Report](./first-missing-positive/README.md) |
 | 9 | Word Search II | HARD | - / 3 | 🔴 Pending | - | - |
 | 10 | Reverse Nodes in k-Group | HARD | - / 3 | 🔴 Pending | - | - |
 | 11 | Largest Rectangle in Histogram | HARD | - / 3 | 🔴 Pending | - | - |
