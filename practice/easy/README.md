@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 26 / 34
-- **Category Score:** 26 / 34 points
-- **Last Updated:** 7/4/2026, 5:19:57 PM (IST)
+- **Solved Questions:** 27 / 34
+- **Category Score:** 27 / 34 points
+- **Last Updated:** 7/24/2026, 4:13:42 PM (IST)
 
 ---
 
@@ -38,7 +38,7 @@
 | 25 | Binary Tree Preorder Traversal | EASY | - / 1 | 🔴 Pending | - | - |
 | 26 | Valid Perfect Square | EASY | 1 / 1 | 🟢 Passed | [View Solution](./valid-perfect-square/Main.java) | [View Report](./valid-perfect-square/README.md) |
 | 27 | Single Number | EASY | 1 / 1 | 🟢 Passed | [View Solution](./single-number/Main.java) | [View Report](./single-number/README.md) |
-| 28 | Roman to Integer | EASY | - / 1 | 🔴 Pending | - | - |
+| 28 | Roman to Integer | EASY | 1 / 1 | 🟢 Passed | [View Solution](./roman-to-integer/Main.java) | [View Report](./roman-to-integer/README.md) |
 | 29 | Search Insert Position | EASY | 1 / 1 | 🟢 Passed | [View Solution](./search-insert-position/Main.java) | [View Report](./search-insert-position/README.md) |
 | 30 | Isomorphic Strings | EASY | 1 / 1 | 🟢 Passed | [View Solution](./isomorphic-strings/Main.java) | [View Report](./isomorphic-strings/README.md) |
 | 31 | Defanging an IP Address | EASY | 1 / 1 | 🟢 Passed | [View Solution](./defang-ip-address/Main.java) | [View Report](./defang-ip-address/README.md) |
